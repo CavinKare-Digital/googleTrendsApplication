@@ -1,9 +1,12 @@
-# Google Trends Application
+# Google Trends Custom Application
 ### Objective:
-Design a full stack application for Google trends of keywords using the data collected from API
+Design a full stack custom application for Google trends of keywords using the API data
 
 ### Tool:
-Python (Libraries - pytrends, seaborn ,dash)
+Python
+ * Pytrends for Google trends API
+ * Flask for frontend
+ * Chartjs, jQuery for charts
 
 ### Steps:
 
@@ -11,8 +14,7 @@ Python (Libraries - pytrends, seaborn ,dash)
     2. Pilot with API
     3. Emulation of charts from Client template
     4. Design of functions
-    5. Design output layer using Dash/dasboard tool
-    
+    5. Design output layer    
     
 ### Snapshots:
 <p align="center">
