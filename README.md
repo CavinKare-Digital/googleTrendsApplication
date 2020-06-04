@@ -16,7 +16,7 @@ Python (Libraries - pytrends, seaborn ,dash)
     
 ### Snapshots:
 <p align="center">
-<img width="600" height="327" src="https://user-images.githubusercontent.com/28645647/83754876-529dea80-a68a-11ea-8e21-354a6eaab3d1.gif">
+<img width="900" height="527" src="https://user-images.githubusercontent.com/28645647/83754876-529dea80-a68a-11ea-8e21-354a6eaab3d1.gif">
 </p>
 
 ### References:
