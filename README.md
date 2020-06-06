@@ -1,6 +1,6 @@
 # Google Trends Custom Application
 ### Objective:
-Design a full stack custom application for Google trends of keywords using the API data
+Design a full stack custom application for Google trends of keywords using the data collected from API
 
 ### Tool:
 Python
@@ -18,7 +18,7 @@ Python
     
 ### Snapshots:
 <p align="center">
-<img width="900" height="527" src="https://user-images.githubusercontent.com/28645647/83754876-529dea80-a68a-11ea-8e21-354a6eaab3d1.gif">
+<img src="https://user-images.githubusercontent.com/28645647/83939303-8a777000-a7f9-11ea-8ae4-e4470b71d5a0.gif">
 </p>
 
 ### References:
